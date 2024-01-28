@@ -1,4 +1,4 @@
-![logo](https://github.com/S-R-JISAN/S-R-JISAN/blob/main/img/15%20ways%20to.png)
+![logo](https://github.com/S-R-JISAN/S-R-JISAN/blob/main/img/READ.png)
 <h1 align="center">Hi 👋, I'm Jisan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="">
